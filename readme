@@ -1,0 +1,16 @@
+Simple Scripts showing token and wallet details on Solana.
+The Scripts make use of solanatracker.io APIs so an account will be needed. You can sign up for a free API key.
+
+Just simple modular codes that can help while you build your project or bot that request price and token data
+
+Head to https://www.solanatracker.io/?ref=NFDDZF5R (includes my ref code) then subscribe to an API package under accounts
+once you've created your account. For more information on their DOCS you can visit [their documentation](https://docs.solanatracker.io/public-data-api/docs)
+
+
+Input your API key in Config.py
+
+Run 'main.py' to test the calls.
+
+Contact me : 
+-  @0xBonge on Twitter (X) 
+-  railing_00flotsam@icloud.com via mail
